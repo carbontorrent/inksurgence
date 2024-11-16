@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <p>this site is currently a work in progress, gonna try moving everything from linktree over to here</p>
 
 <p>// he/him
@@ -6,7 +5,7 @@
 <br>// occasional shitposter
 <br>// I play rhythm games
 <br>// hajimeli server mod
-<br>// getting into graphic design + music</p>
+<br>// getting into graphic design + music
 
 <p>rhythm games
 <br>// <a href="https://docs.google.com/spreadsheets/d/19aJxKjLNi-s9mRd6xFw3o83f0VrBEoO1TGJzzlCfuFM/edit?usp=sharing">Arcaea Sheet Wiki™</a>
@@ -14,6 +13,7 @@
 <br>// <a href="https://tiermaker.com/create/arcaea---songs-and-charts-1012566">Arcaea Tier List Template</a>
 <br>// <a href="https://docs.google.com/spreadsheets/d/1w5-ZzjoqHyiuG_nZY4E-of7IraxxWMH1Eh2ZOAtidRk/edit?usp=sharing">vivid/stasis Spreadsheet</a>
 <br>// <a href="https://www.jetpunk.com/user-quizzes/1611189/all-vividstasis-songs">vivid/stasis Song Quiz</a>
+<br>// <a href="https://docs.google.com/spreadsheets/d/1IlxyxyhRy4Ff337XMKTrM5WXbZBgXHETBgRaH8Qp-Vw/edit?usp=sharing">Arcade Score Sheet</a>
 
 <p>socials
 <br>// <a href="https://twitter.com/Inksurgence">twitter</a>
