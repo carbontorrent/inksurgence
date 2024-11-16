@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style> 
 @font-face {
@@ -10,6 +12,7 @@
 }
 </style>
 </head>
+<body>
 
 <p>this site is currently a work in progress, gonna try moving everything from linktree over to here</p>
 
@@ -33,3 +36,6 @@
 <br>// <a href="https://twitter.com/carbon_torrent">twitter (private)</a>
 <br>// <a href="https://bsky.app/profile/inksurgence.bsky.social">bluesky</a>
 <br>// <a href="https://www.youtube.com/@InksurgenceDTM">youtube</a>
+
+</body>
+</html>
