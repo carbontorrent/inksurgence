@@ -1,3 +1,16 @@
+<head>
+<style> 
+@font-face {
+   font-family: tt_octosquares_trlmd;
+   src: url(tt_octosquares_trial_medium-webfont.woff);
+}
+
+* {
+   font-family: tt_octosquares_trlmd;
+}
+</style>
+</head>
+
 <p>this site is currently a work in progress, gonna try moving everything from linktree over to here</p>
 
 <p>// he/him
