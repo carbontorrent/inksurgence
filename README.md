@@ -22,5 +22,5 @@
 ![vivid/stasis - execution_program Custom Jacket](/inksurgence/assets/execution program remake.png)
 ![vivid/stasis Sunrise Showdown - Team Announcement](/inksurgence/assets/sunriseshowdowncomplete.png)
 ![vivid/stasis Sunrise Showdown - Grand Finals Announcement](/inksurgence/assets/grand finals graphic FINALIZED(1).png)
-![vivid/stasis - Chapter 3 Art](/inksurgence/assets/duskbreaker reimagined.png)
+![vivid/stasis - Chapter 3 Art](https://github.com/carbontorrent/inksurgence/blob/main/docs/assets/duskbreaker%20reimagined.png)
 ![vivid/stasis - Chapter 4 Art](/inksurgence/assets/stop-motion 16.9.png)
