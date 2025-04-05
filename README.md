@@ -3,7 +3,7 @@
 <br>// occasional shitposter
 <br>// I play rhythm games
 <br>// hajimeli server mod
-<br>// getting into graphic design + music
+<br>// visual/graphic design + dtm
 
 <p>rhythm games
 <br>// <a href="https://docs.google.com/spreadsheets/d/19aJxKjLNi-s9mRd6xFw3o83f0VrBEoO1TGJzzlCfuFM/edit?usp=sharing">Arcaea Sheet Wiki™</a>
@@ -15,4 +15,4 @@
 <br>// <a href="https://twitter.com/Inksurgence">twitter</a>
 <br>// <a href="https://twitter.com/carbon_torrent">twitter (private)</a>
 <br>// <a href="https://bsky.app/profile/inksurgence.bsky.social">bluesky</a>
-<br>// <a href="https://www.youtube.com/@InksurgenceDTM">youtube</a>
+<br>// <a href="https://www.youtube.com/@Inksurgence">youtube</a>
